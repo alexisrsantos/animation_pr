@@ -3,7 +3,7 @@ Este repositorio continue los datos y el código utilizado para crear las cuatro
 Estas animaciones fueron presen
 
 # Nacimientos y Muertes 
-![Nacimientos y Muertes, PR 2000-18](pr_anim.gif)
+![Nacimientos y Muertes, PR 2000-18](pr_anim1.gif)
 
 ![Balance entre Nacimientos y Muertes, PR 2000-18](pr_anim2.gif)
 
